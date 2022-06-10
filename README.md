@@ -3,7 +3,7 @@
 En este curso aprenderás a programar en 
 Python
 
-![Logo de Python](Imagenes\logo-python.png)
+![Logo de Python](https://github.com/AlbertoACH/Curso-basico-python/blob/main/Imagenes/logo-python.png)
 
 **Requisitos**
 
